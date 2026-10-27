@@ -8,9 +8,10 @@ psycopg-pool
 python-dotenv
 tavily-python
 requests
-langgraph-checkpoit-postgres
+langgraph-checkpoint-postgres==3.1.0
 airportsdata==20260315
 pycountry==26.2.16
 fastapi==0.140.0
 uvicorn==0.48.0
 jinja2
+tavily
